@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'asimov-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43EC69C9EAD84E438362AB6788D571F7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DCFB4DCE239489B86740F45AE97B76E }}
           package: '*.jar'
